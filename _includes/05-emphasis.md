@@ -1,1 +1,1 @@
-__this text is both bold and **italic**__
+__this text is both **italic** bold__
